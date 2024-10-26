@@ -41,13 +41,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBQvQSdZkqhZWK_vm5o5u0g46gRYupWTFo',
-    appId: '1:1089326893210:web:5a6b552293acd2194a7723',
-    messagingSenderId: '1089326893210',
+    apiKey: 'API Key'
+    appId: 'API ID',
+    messagingSenderId: 'MS ID',
     projectId: 'tickynotes1',
     authDomain: 'tickynotes1.firebaseapp.com',
     storageBucket: 'tickynotes1.appspot.com',
-    measurementId: 'G-4E9R6YNMWY',
+    measurementId: 'MID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
