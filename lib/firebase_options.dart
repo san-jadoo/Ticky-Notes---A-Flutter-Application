@@ -40,49 +40,23 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'API Key'
-    appId: 'API ID',
-    messagingSenderId: 'MS ID',
-    projectId: 'tickynotes1',
-    authDomain: 'tickynotes1.firebaseapp.com',
-    storageBucket: 'tickynotes1.appspot.com',
-    measurementId: 'MID',
+  static const FirebaseOptions web = FirebaseOptions
+      //
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCd-lU3Pmkmo-MxAySs1mpmuHdXT-tAfMo',
-    appId: '1:1089326893210:android:eeb3d1a6a7d2cbdc4a7723',
-    messagingSenderId: '1089326893210',
-    projectId: 'tickynotes1',
-    storageBucket: 'tickynotes1.appspot.com',
+    //
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCIUIPK6RTNk0-w2CZgqzY9SU9UebKl1tY',
-    appId: '1:1089326893210:ios:3cb767b805db50894a7723',
-    messagingSenderId: '1089326893210',
-    projectId: 'tickynotes1',
-    storageBucket: 'tickynotes1.appspot.com',
-    iosBundleId: 'com.example.tickynotes1',
+    //
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCIUIPK6RTNk0-w2CZgqzY9SU9UebKl1tY',
-    appId: '1:1089326893210:ios:3cb767b805db50894a7723',
-    messagingSenderId: '1089326893210',
-    projectId: 'tickynotes1',
-    storageBucket: 'tickynotes1.appspot.com',
-    iosBundleId: 'com.example.tickynotes1',
+    //
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBQvQSdZkqhZWK_vm5o5u0g46gRYupWTFo',
-    appId: '1:1089326893210:web:75f53b34065a04f34a7723',
-    messagingSenderId: '1089326893210',
-    projectId: 'tickynotes1',
-    authDomain: 'tickynotes1.firebaseapp.com',
-    storageBucket: 'tickynotes1.appspot.com',
-    measurementId: 'G-CV4EZSEQDJ',
+    //
   );
 }
